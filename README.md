@@ -18,7 +18,7 @@ I built a **command-line app** that calculates a **TrustScore** based on blockch
 2. Employed a **modular CLI design** to make input, computation, and logging seamless.  
 3. Prepared output in a **JSON + demo log format** for judging convenience.  
 
-**Repo:** [https://github.com/<your-username>/trustcore-app](https://github.com/<your-username>/trustcore-app)  
+**Repo:** [https://github.com/pnikoloudis/trustcore-app](https://github.com/pnikoloudis/trustcore-app)  
 
 This submission demonstrates **quick app development**, structured coding, and a clear **AI-inspired workflow mindset**, ready for evaluation in the Canopy Vibe Coding Contest.  
 
