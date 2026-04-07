@@ -46,5 +46,5 @@ This project was built for the **Canopy Vibe Coding Contest** using TypeScript, 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/trustcore-app.git
+git clone https://github.com/pnikoloudis/trustcore-app.git
 cd trustcore-app
