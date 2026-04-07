@@ -1,18 +1,34 @@
 🌿 Welcome to TrustCore CLI Contest Edition!
 
 Number of transactions: 
-65
+78
 Number of smart contracts interacted with: 
-32
+52
 Reputation score (1-100): 
-56
+4
 
 💡 TrustCore Summary:
 ID: 1
-Transactions: 65
-Contracts: 32
-Reputation: 56
-TrustScore: 50.00
+Transactions: 78
+Contracts: 52
+Reputation: 4
+TrustScore: 52.80
+
+Add another entry? (1 = Yes, 0 = No): 
+1
+Number of transactions: 
+78
+Number of smart contracts interacted with: 
+65
+Reputation score (1-100): 
+86
+
+💡 TrustCore Summary:
+ID: 2
+Transactions: 78
+Contracts: 65
+Reputation: 86
+TrustScore: 74.40
 
 Add another entry? (1 = Yes, 0 = No): 
 0
